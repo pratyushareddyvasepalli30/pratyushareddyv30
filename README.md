@@ -1,11 +1,8 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Pratyusha Reddy Vasepalli</h1>
 <h3 align="center">A computer Information Systems student at GSU</h3>
 
-
-
 - 📫 How to reach me **pratyuhsareddyvasepalli@gmail.com**
+- - 🔭 I’m currently working with NASPO
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
