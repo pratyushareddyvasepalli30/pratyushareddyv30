@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pratyusha Reddy Vasepalli</h1>
+<h1 align="center">Hi 👋, I'm Pratyusha Reddy V</h1>
 <h3 align="center">A computer Information Systems student at GSU</h3>
 
-- 📫 How to reach me **pratyuhsareddyvasepalli@gmail.com**
+- 📫 How to reach me **pratyushav007@gmail.com**
 - 🔭 I’m currently working with NASPO
 
 <h3 align="left">Connect with me:</h3>
@@ -12,7 +12,7 @@
 
 
 <!--
-**pratyushareddyvasepalli30/pratyushareddyvasepalli30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pratyushareddyvasepalli30/pratyushareddyv30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
